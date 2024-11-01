@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhruv Patel</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvpatel77741&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvpatel77741" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvpatel77741&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvpatel77741" /> </p>-->
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left">
 <a href="https://twitter.com/dhruv77741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv77741" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruvpatel77741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvpatel77741" height="30" width="40" /></a>
