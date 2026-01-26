@@ -18,8 +18,8 @@
 
 👨‍🎓 **Education:** Pursuing **Masters in Computer Science** at **Illinois Tech, Chicago** (2024 - 2026)  
 💼 **Past Roles:**
+- **Graduate Teaching Assitant @ Illinois Institute of Technology**
 - **Frontend Developer @ Uveaa Australia Pty. Ltd.**
-- **Software Developer @ Insignia Technolabs**
 - **Administrative & Operations Coordinator @ Shiv Immigration**
 - **Research Intern @ Institute for Plamsa Research**
 
