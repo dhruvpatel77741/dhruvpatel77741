@@ -37,6 +37,7 @@
 ## 🚀 Featured Projects
 
 🔹 **[EliteCare-HealthAssistant](https://github.com/dhruvpatel77741/EliteCare-HealthAssistant)** - A full-stack medical healthcare system with courses, focusing on online pharmacy services with Rasa AI chatbot support.  
+🔹 **[Medical NLP Service - Diagnostic Report Processor](https://github.com/dhruvpatel77741/CS595-NLP_Extraction.git)** - A specialized diagnostic report processor designed to extract structured clinical data from unstructured medical text using NLP.
 🔹 **[SmartHomes](https://github.com/dhruvpatel77741/SmartHomes)** - A full-stack online smarthome products retailer shop.
 
 <p align="center">
